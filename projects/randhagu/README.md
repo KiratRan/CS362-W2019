@@ -1,2 +1,1 @@
-Gurkirat Randhawa
-randhagu
+This is my assignment-1 submission!
