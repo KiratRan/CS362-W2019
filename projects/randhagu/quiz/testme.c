@@ -5,11 +5,11 @@
 
 char inputChar()
 {
-    // TODO: rewrite this function
+    	// TODO: rewrite this function
 	int n = (rand() % (125 - 32 + 1)) + 32;
 	char c = (char)n;
 
-    return c;
+    	return c;
 }
 
 char *inputString()
