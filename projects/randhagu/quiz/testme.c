@@ -15,7 +15,7 @@ char inputChar()
 char *inputString()
 {
 	// TODO: rewrite this function
-	int size = (rand() % (10 - 5 + 1)) + 5;
+	int size = (rand() % (10 - 6 + 1)) + 6;
 	char str[size];
 
 	for (int i = 0; i < size; i++) {
